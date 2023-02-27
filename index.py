@@ -2,3 +2,5 @@ original_price = float(input("Введите исходную цену това�
 discount = original_price * 0.2
 sale_price = original_price - discount
 print('Отпускная цена составляет', sale_price)
+result = 'p' 'r' 'r222'
+print(result)
